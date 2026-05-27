@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercalidate",
+        "uuid": 12713200,
+        "checksum": "e5czp9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
